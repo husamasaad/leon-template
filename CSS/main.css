@@ -195,13 +195,14 @@ nav {
   border: none;
   background-color: transparent;
   cursor: pointer;
+  text-align: right;
+  width: 100%;
 }
 
 #close-btn i {
   font-size: var(--body-md);
   color: var(--bg-clr);
   text-align: right;
-  width: 100%;
 }
 
 
